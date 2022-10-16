@@ -1,8 +1,0 @@
-# send-mail-using-codeigniter
-Send email using PHP framework CodeIgniter and shared server email service.
-
-For execution please flow given steps.
-1)Open DB file and change the required settings.
-	send-mail-using-codeigniter\application\config\database.php
-2)Open controller file and change mail server settings.
-	send-mail-using-codeigniter\application\controllers\Mail.php
